@@ -1,1 +1,0 @@
-luc nao cung dc hello
